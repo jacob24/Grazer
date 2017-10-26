@@ -1,0 +1,2 @@
+class Grazer(object):
+    pass
