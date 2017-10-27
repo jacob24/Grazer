@@ -1,2 +1,0 @@
-class Grazer(object):
-    pass
