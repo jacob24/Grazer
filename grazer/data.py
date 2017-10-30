@@ -17,3 +17,6 @@ class GrazerData(object):
 
     def get_metadata(self):
         return self.meta_data
+
+    def get_key(self):
+        return self.key
